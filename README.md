@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adebanjo Ifeoluwa
 - 👀 I’m interested in frontend and backend development
-- 🌱 I’m currently learning CSS currently 
+- 🌱 I’m currently learning CSS and javascript 
 - 📫 adebanjoife1@gmail.com
 
 <!---
